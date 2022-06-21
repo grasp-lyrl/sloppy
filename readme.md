@@ -1,5 +1,5 @@
 
-Implementation of [Does the Data Induce Capacity Control in Deep Learning?](https://arxiv.org/abs/2110.14163)
+Implementation of [Does the Data Induce Capacity Control in Deep Learning?](https://arxiv.org/abs/2110.14163) (ICML 2022)
 
 
 
